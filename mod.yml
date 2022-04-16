@@ -1,0 +1,15 @@
+title: Tall Riku
+originalAuthor: Shananas
+description:
+assets:
+- name: obj/N_EX940_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_EX940_BTL.mdlx
+
+#If you want short riku but with a twist
+#- name: obj/TendrilN_EX940_BTL.mdlx
+#  method: copy
+#  source:
+#   - name: obj/TendrilN_EX940_BTL.mdlx
+    
