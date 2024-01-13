@@ -1,6 +1,6 @@
 title: Tall Riku
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/N_EX940_BTL.mdlx
   method: copy
